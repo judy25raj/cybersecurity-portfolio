@@ -32,7 +32,7 @@ Developed and secured the **SecureShop** MySQL database. Implemented encryption,
 
 ---
 
-### 🧩 [Project 8 – Nerdnest: Governance, Risk & Compliance (GRC), ITIL & Cybersecurity Audit](./nerdnest-grc-itil-compliance/)
+### 🧩 [Project 4 – Nerdnest: Governance, Risk & Compliance (GRC), ITIL & Cybersecurity Audit](./nerdnest-grc-itil-compliance/)
 **Description:**  
 Developed a unified **GRC framework** for Nerdnest, aligning IT service management with **ITIL** principles, integrating **Change Management**, ensuring compliance with **SOX**, **HIPAA**, **CCPA/CPRA**, and establishing a proactive **cybersecurity audit readiness** framework.  
 

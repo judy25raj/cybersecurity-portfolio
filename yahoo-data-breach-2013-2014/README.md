@@ -62,7 +62,4 @@ The Yahoo breach highlights that cybersecurity resilience requires continuous vi
 
 ---
 
-## 📚 References
-- StrongDM. *Yahoo Data Breach Case Study* — https://www.strongdm.com  
-- Dark Reading. *Yahoo Data Breach Timeline* — https://www.darkreading.com
 

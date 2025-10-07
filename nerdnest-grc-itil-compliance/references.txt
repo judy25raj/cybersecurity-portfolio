@@ -1,0 +1,17 @@
+1. ISACA. "COBIT Framework for Governance and Management of Enterprise IT."
+   https://www.isaca.org/resources/cobit
+
+2. NIST. "Framework for Improving Critical Infrastructure Cybersecurity (NIST CSF)."
+   https://www.nist.gov/cyberframework
+
+3. Axelos. "ITIL Foundation: IT Service Management Practices."
+   https://www.axelos.com/best-practice-solutions/itil
+
+4. U.S. HHS. "HIPAA Compliance and Privacy Rule."
+   https://www.hhs.gov/hipaa/
+
+5. State of California. "California Consumer Privacy Act (CCPA) / California Privacy Rights Act (CPRA)."
+   https://oag.ca.gov/privacy/ccpa
+
+6. U.S. Government Publishing Office. "Sarbanes–Oxley Act of 2002 (SOX)."
+   https://www.govinfo.gov/

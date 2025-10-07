@@ -1,0 +1,6 @@
+1. IBM X-Force Exchange – Vulnerability database (CVE lookup)
+2. NIST NVD – National Vulnerability Database
+3. MITRE CVE Dictionary – CVE lookup and references
+4. OWASP – Penetration Testing Guide
+5. Kali Linux Documentation – Encryption and testing tools
+6. AES (Advanced Encryption Standard) documentation and best practices

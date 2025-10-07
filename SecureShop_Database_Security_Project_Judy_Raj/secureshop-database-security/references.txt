@@ -1,0 +1,14 @@
+1. Coursera. "Comprehensive Database Security and Management – SecureShop Database Project."
+   Retrieved from: https://www.coursera.org/learn/comprehensive-database-security
+
+2. MySQL Documentation. "MySQL Data Encryption and Key Management."
+   Retrieved from: https://dev.mysql.com/doc/
+
+3. OWASP Foundation. "SQL Injection Prevention Cheat Sheet."
+   Retrieved from: https://owasp.org/www-community/attacks/SQL_Injection
+
+4. W3Schools. "MySQL Encryption and Decryption Functions."
+   Retrieved from: https://www.w3schools.com/sql/sql_ref_mysql.asp
+
+5. TechSafe SecureShop Lab. "Customer Data Masking and Encryption Demonstration."
+   Used under educational license (2025).

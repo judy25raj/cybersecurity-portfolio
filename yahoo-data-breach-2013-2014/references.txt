@@ -1,0 +1,15 @@
+1. StrongDM. "Yahoo Data Breach Case Study (2013–2014)."
+   Retrieved from: https://www.strongdm.com/blog/yahoo-data-breach
+
+2. Dark Reading. "Timeline of the Yahoo Data Breach."
+   Retrieved from: https://www.darkreading.com/attacks-breaches/yahoo-breach-timeline
+
+3. U.S. Securities and Exchange Commission (SEC). "Yahoo Charged and Fined for Data Breach Disclosure Failures."
+   Press Release No. 2018-71.
+   Retrieved from: https://www.sec.gov/news/press-release/2018-71
+
+4. Reuters. "Yahoo Says All 3 Billion Accounts Were Hacked in 2013 Data Theft."
+   Retrieved from: https://www.reuters.com/article/us-yahoo-cyber/yahoo-says-all-3-billion-accounts-were-hacked-in-2013-data-theft-idUSKCN1C82O1
+
+5. Wired. "Inside the Biggest Hack in History: The Yahoo Breach."
+   Retrieved from: https://www.wired.com/story/yahoo-hack/

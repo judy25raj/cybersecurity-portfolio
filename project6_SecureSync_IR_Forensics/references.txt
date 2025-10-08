@@ -1,0 +1,5 @@
+References
+- NIST SP 800-61 Rev. 2: Computer Security Incident Handling Guide
+- NIST SP 800-86: Guide to Integrating Forensic Techniques into Incident Response
+- MITRE ATT&CK knowledge base for adversary behaviors
+- SANS Incident Handlers Handbook (overview concepts)
